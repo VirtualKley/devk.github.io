@@ -1,0 +1,23 @@
+.about-card{
+    /* border: white 5px solid; */
+}
+
+.img-about{
+    width: 350px;
+    height: auto;
+}
+
+.title-about{
+    color: white;
+    font-size: 50px;
+}
+
+.card-title{
+    color: #150050;
+}
+
+.card {
+    background-color: #ad5389;
+    color: black;
+    border: white 3px solid;
+}

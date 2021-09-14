@@ -1,0 +1,18 @@
+.title-about{
+    color: white;
+    font-size: 50px;
+}
+
+.img-logo{
+    width: 100px;
+    height: auto;
+    margin: 10px;
+}
+
+.burble{
+    display: none;
+}
+
+.img-skills:hover .burble{
+    display: block;
+}
